@@ -1,7 +1,6 @@
 import argparse
 import os
 
-# Test
 
 class MyHelpFormatter(argparse.HelpFormatter):
     def __init__(self, *args, **kwargs):
